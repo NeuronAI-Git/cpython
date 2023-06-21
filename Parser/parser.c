@@ -47,7 +47,7 @@ static KeywordToken *reserved_keywords[] = {
         {"raise", 522},
         {"yield", 573},
         {"break", 508},
-        {"class", 654},
+        {"local class", 654},
         {"while", 647},
         {"False", 603},
         {NULL, -1},
